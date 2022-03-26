@@ -1,0 +1,19 @@
+.background-image{
+    background-image:url("https://www.deere.com/assets/images/common/home-page/sus-hero-1366x347.jpg");
+    width: 100vw;
+    height: auto;
+    background-size:cover;
+}
+.report:hover{
+    transition: 0.2s;
+    color: rgb(0, 134, 0)!important;
+    
+}
+.bg-overlay {
+    position: absolute;
+    width: 40%;
+    padding: 0 20px;
+    height: 100%;
+    background: rgba(102,102,102,.8);
+    top: 0;
+}
